@@ -1,0 +1,12 @@
+{
+  "name": "practica-jest",
+  "version": "1.0.0",
+  "description": "Ejercicios básicos de pruebas unitarias con Jest",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "~30.5.0"
+  }
+}
